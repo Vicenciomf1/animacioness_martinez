@@ -24,7 +24,7 @@ body {
 
 header {
     overflow: hidden;
-    background-image: url("../assets/img/fondoHero.jpg");
+    background-image: url("./assets/img/fondoHero.jpg");
     grid-area: header;
     display: grid;
     grid-template-rows: 3fr 7fr;
